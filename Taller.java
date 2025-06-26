@@ -11,6 +11,6 @@ public class Taller {
         System.out.println("hola," + nombre + "!");
         System.out.println("la suma de "+a+"+"+b+"es:"+ suma);
         System.out.println("la multiplicacion de"+a+"*"+b+"es:" +multiplicacion);
-       
+        System.out.println("saludos profe espero este pasando un buen dia.");
     }
 }
